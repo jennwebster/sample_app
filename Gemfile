@@ -18,6 +18,7 @@ end
 group :development do
   gem 'sqlite3', '1.3.9'
   gem 'spring',  '1.1.3'
+  gem 'rspec-rails'
 end
 
 group :production do
